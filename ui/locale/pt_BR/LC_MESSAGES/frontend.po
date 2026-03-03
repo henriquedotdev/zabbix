@@ -15662,7 +15662,7 @@ msgstr "Nova expressão regular"
 #: app/views/administration.script.edit.php:369
 #: app/views/administration.script.edit.php:409
 msgid "New script"
-msgstr "Noo script"
+msgstr "Novo script"
 
 #: app/views/popup.service.edit.php:336 app/views/popup.service.edit.php:365
 msgid "New service"
